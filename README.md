@@ -86,11 +86,3 @@ We followed these steps in order to create the algorythm and then move it over t
 * Running from the command line instructions found here: https://github.com/alpacahq/pylivetrader/blob/master/README.md and additional troubleshooting issues found here: https://github.com/alpacahq/pylivetrader/issues
 * As of 6.17.20, Pylivetrader must be restarted at least once every 24 hours but I found that to be considerably more frequently for this exercise
 * There's currently no clean way to parse out multiple algorithms running concurrently within the Alpaca UI
-
-
-## Areas to improve
-    - Potential clunkiness  in pylivetrader. Consider translating to blueshift instead.
-    - Limited by Market Data and availability. Find workarounds. 
-    - Add Machine Learning techniques to finding quantitative relationships
-    - Create a performance analysis notebook to analyze live results 
-    - Create automated email reports with performance analysis
