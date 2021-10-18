@@ -1,4 +1,4 @@
-# AlpacQuantop-em : A Quantitative Trading System
+# AlpacQuantop-em : Quantitative Trading System
 
 ## Project Overview
 Built a functional quantitative trading system that implements strategies researched and tested in Quantopian. Those strategies are then executed in Alpaca- the commission-free stock trading API. Mainly it is useful for companies involved in trading securities.
