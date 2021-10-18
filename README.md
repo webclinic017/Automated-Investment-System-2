@@ -40,10 +40,6 @@ Additionally, designed this to be compatible with Alpaca, a trading platform tha
 
 We followed these steps in order to create the algorythm and then move it over to Alpaca. 
 
-## Results
-![quantopian_returns](Images/returns-final.JPG)
-![Image of Returns](Images/numbers-final.JPG)
-
 ![Image of Tearsheet from Research (broken into quantiles)](Images/tearsheet.png)
 
 ## Alpaca Implementation
