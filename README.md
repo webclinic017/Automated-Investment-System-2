@@ -1,10 +1,7 @@
 # AlpacQuantop-em : Quantitative Trading System
 
-## Overview
-A functional quantitative trading system that implements strategies researched and tested in Quantopian. Those strategies are then executed in Alpaca- the commission-free stock trading API. Mainly it is useful for companies involved in trading securities.
-
 ## Purpose
-The purpose is to successfully build a foundational quantitative trading system that can be evolved upon as our fintech class continues. The goal is to test and implement quantitative strategies aimed toward maximal risk-adjusted returns in the least amount of time possible. 
+The goal is to test and implement quantitative strategies aimed toward maximal risk-adjusted returns in the least amount of time possible. 
 
 ## Business Significance
     - Saves time by using a simpler process going from research to execution
