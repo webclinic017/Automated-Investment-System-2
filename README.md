@@ -15,17 +15,9 @@ The purpose of this project is to successfully build a foundational quantitative
     - Time spent on factor research
     - Time spent building algorithms
     - Time spent translating quantopian algorithms to a format that can be executed in Alpaca
-    - Normal costs of investing, all the tools involved are free
+    - Normal costs of investing, all the tools involved are free 
 
-## Tools
-[Alpaca](https://alpaca.markets/)  
-[Python Library-pylivetrader](https://github.com/alpacahq/pylivetrader)  
-[Quantopian Notebooks](https://www.quantopian.com/notebooks)  
-[Quantopian Algorithms](https://www.quantopian.com/algorithms)  
-[Visual Studio](https://visualstudio.microsoft.com/)  
-[Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/)  
-
-## Methodology
+## Process
 1. Quantitative Research Notebook in Quantopian
 2. Backtest Pipeline/Algorithm 
 3. Translate quantopian algorithm to pylivetrader
@@ -48,13 +40,6 @@ Additionally, we designed this to be compatible with Alpaca, a trading platform 
     * Project1Final is the backtesting code in Quantopian.
     
     * Algo_Final_Pylivetrader is the final code for the algorythm as used in Alpaca. Implemented daily rather than weekly. 
-
-## How this is useful to you:
-
-If you are interested in using an algorythm to develop an investment strategy, playing with this code in quantopian can help you better understand how to use it as a way to backtest any given strategy. Additionally, if you are looking for guidance as to how to transfer your quantopian strategy to Alpaca, there is code for how we were able to do that as well in this repository. 
-
-Most importantly, this is a way to demonstrate how useful Quantopian can be for someone trying to develop an investment strategies with little knowledge of how to use API's. During our time on this project we were able to focus much more on the trading and finance aspect of the strategy, and less on the gathering of the data--which I am sure can be greatly appreciated by all those who work in Data Science/Analysis. 
-
 
 We followed these steps in order to create the algorythm and then move it over to Alpaca. 
 
