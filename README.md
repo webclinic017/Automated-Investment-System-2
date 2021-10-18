@@ -1,4 +1,4 @@
-# Quantitative Trading System
+# Quantitative Trading System - 2
 
 ## Purpose
 The goal is to test and implement quantitative strategies aimed toward maximal risk-adjusted returns in the least amount of time possible. 
