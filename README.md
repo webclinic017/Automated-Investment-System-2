@@ -23,9 +23,9 @@ The goal is to test and implement quantitative strategies aimed toward maximal r
 6. Monitor Results on Alpaca Interface
 
 ## Repository Introduction
-This GitHub repository contains the code for an algorythm that can be used in quantopian. The returns in the algorythm in its current state are not as optimal as possible, but the structure for an investment strategy that involves both longs and shorts that is done with technical analysis of common financial metrics is there to be modified according to the desired positions of the user. Using simple metrics like Closing Price, Simple Moving Average, and Historical Returns, we were able to outperform "common returns" on Quantopian, which means that we were able to outperform others who were using these same "factors" in their algorythms. In the future, this can be expanded upon to use much more complicated analysis, as well as optimized with machine learning. 
+This GitHub repository contains the code for an algorithm that can be used in quantopian. The returns in the algorithm in its current state are not as optimal as possible, but the structure for an investment strategy that involves both longs and shorts that is done with technical analysis of common financial metrics is there to be modified according to the desired positions of the user. Using simple metrics like :- Closing Price, Simple Moving Average, and Historical Returns, we were able to outperform "common returns" on Quantopian, which means that we were able to outperform others who were using these same "factors" in their algorithms. In the future, this can be expanded upon to use much more complicated analysis, as well as optimized with machine learning. 
 
-Additionally, we designed this to be compatible with Alpaca, a trading platform that allows you to use Python/Quantopian/Pandas to create automated trading strategies. This was done with pyvlivetrading to help make the transition as smooth as possible to Alpaca. While our Quantopian algorythm executes weekly, the Alpaca one is set to run daily to demonstrate its capabilities. 
+Additionally, designed this to be compatible with Alpaca, a trading platform that allows you to use Python/Quantopian/Pandas to create automated trading strategies. This was done with pyvlivetrading to help make the transition as smooth as possible to Alpaca. While our Quantopian algorythm executes weekly, the Alpaca one is set to run daily to demonstrate its capabilities. 
 
 
 ## Code
@@ -36,7 +36,7 @@ Additionally, we designed this to be compatible with Alpaca, a trading platform 
     
     * Project1Final is the backtesting code in Quantopian.
     
-    * Algo_Final_Pylivetrader is the final code for the algorythm as used in Alpaca. Implemented daily rather than weekly. 
+    * Algo_Final_Pylivetrader is the final code for the algorithm as used in Alpaca. Implemented daily rather than weekly. 
 
 We followed these steps in order to create the algorythm and then move it over to Alpaca. 
 
